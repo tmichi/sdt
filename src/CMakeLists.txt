@@ -1,0 +1,19 @@
+ADD_EXECUTABLE( sdt
+CSDT.cpp
+CSDT.h
+Option.cpp
+Option.h
+QSDT.cpp
+QSDT.h
+SDT.cpp
+SDT.h
+SQSDT.cpp
+SQSDT.h
+SVSDT.cpp
+SVSDT.h
+VSDT.cpp
+VSDT.h
+main.cpp
+)
+TARGET_LINK_LIBRARIES(sdt png z ${OPENGL_LIBRARIES} ${GLUT_LIBRARY} ${GLUI_LIBRARY} glui)
+
