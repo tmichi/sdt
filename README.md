@@ -1,9 +1,9 @@
 # sdt
 An implementation of distance fields on a unit sphere
 
-![Snapshot](result.png "snapshot")
+![Snapshot](result.png =100x "snapshot")
 
-#Libraries that I use
+# Libraries that I use
    - OpenGL + glut
    - glui
    - vecmath package C++ port : http://objectclub.jp/download/vecmath_e 
