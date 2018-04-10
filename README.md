@@ -1,7 +1,7 @@
 # sdt
 An implementation of distance fields on a unit sphere
 
-![Snapshot](result "snapshot")
+![Snapshot](result.png "snapshot")
 
 #Libraries that I use
    - OpenGL + glut
